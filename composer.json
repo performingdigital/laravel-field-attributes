@@ -56,7 +56,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Performing\\FieldAttributes\\FieldServiceProvider"
+                "Performing\\FieldAttributes\\FieldAttributesServiceProvider"
             ]
         }
     },
