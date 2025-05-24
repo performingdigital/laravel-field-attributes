@@ -1,4 +1,4 @@
-# This is my package laravel-field-attributes
+# laravel-field-attributes
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/performingdigital/laravel-field-attributes.svg?style=flat-square)](https://packagist.org/packages/performingdigital/laravel-field-attributes)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/performingdigital/laravel-field-attributes/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/performingdigital/laravel-field-attributes/actions?query=workflow%3Arun-tests+branch%3Amain)
