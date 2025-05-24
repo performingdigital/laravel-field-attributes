@@ -44,7 +44,7 @@ $instance->getFieldDefinitions();
 
 If you combine this with [spatie/laravel-data](https://github.com/spatie/laravel-data), you can also add validation on top, serialize and deserialize as JSON back and forth from the database.
 
-In the package there is also a caster `ObjectCast` which can cast an json column to an object, it takes the class name from a `type` column of the eloquent model.
+In the package there is also a caster `ObjectCast` which can cast a json column to an object, it takes the class name from a `type` column of the eloquent model. You can also map types to specifc classes in the config.
 
 ## Testing
 
