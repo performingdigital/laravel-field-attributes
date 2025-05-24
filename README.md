@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/performing/laravel-field-attributes.svg?style=flat-square)](https://packagist.org/packages/performingdigital/laravel-field-attributes)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/performingdigital/laravel-field-attributes/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/performingdigital/laravel-field-attributes/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/performingdigital/laravel-field-attributes/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/performingdigital/laravel-field-attributes/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/performingd/laravel-field-attributes.svg?style=flat-square)](https://packagist.org/packages/performing/laravel-field-attributes)
+[![Total Downloads](https://img.shields.io/packagist/dt/performing/laravel-field-attributes.svg?style=flat-square)](https://packagist.org/packages/performing/laravel-field-attributes)
 
 Simple package to decorate classes with field attributes, allowing you to easily convert data objects to forms with labels and descriptions.
 
